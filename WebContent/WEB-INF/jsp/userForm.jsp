@@ -13,11 +13,11 @@
 	<table>
 		<tr>
 			<td> Name :</td>
-			<td><form:input path="name" /></td>
+			<td><form:input path="enter name" /></td>
 		</tr>
 		<tr>
 			<td>Password :</td>
-			<td><form:password path="password" /></td>
+			<td><form:password path="enter password" /></td>
 		</tr>
 		<tr>
 			<td>Gender :</td>
